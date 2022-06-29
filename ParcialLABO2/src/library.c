@@ -1,3 +1,10 @@
+/*
+ * library.c
+ *
+ *  Created on: 9 jun. 2022
+ *      Author: Matias
+ */
+
 #include "library.h"
 
 int validarTexto(char *menInicio, char *menError, char *text, int len)
